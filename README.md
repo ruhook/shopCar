@@ -8,4 +8,4 @@
 脚手架就是官方的vue-cli。但是这个项目是1.0的版本. 本质想练习vux的。
 ```
 
-学习资料 [百度大法好](http://www.baidu.com)。
+学习资料 [百度大法好](http://www.baidu.com).
