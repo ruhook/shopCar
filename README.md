@@ -1,18 +1,11 @@
-# a-vux
+# vuex购物车demo
 
-> A Vue.js project
+> 一个练手的项目，本质想模仿尤大的购物车的。 但是实质就咳咳...
 
-## Build Setup
+## 介绍
 
 ``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
+脚手架就是官方的vue-cli。但是这个项目是1.0的版本. 本质想练习vux的。
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+学习资料 [百度大法好](http://www.baidu.com).
